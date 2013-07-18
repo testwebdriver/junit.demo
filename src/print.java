@@ -9,6 +9,7 @@ public class print {
 		
 		System.out.println("truth alone triumphs");
 		System.out.println("Where there is love there is life.");
+		System.out.println("An eye for an eye only ends up making the whole world blind");
 	}
 
 }
