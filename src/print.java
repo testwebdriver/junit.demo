@@ -8,6 +8,7 @@ public class print {
 		
 		
 		System.out.println("truth alone triumphs");
+		System.out.println("Where there is love there is life.");
 	}
 
 }
