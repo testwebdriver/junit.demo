@@ -7,7 +7,7 @@
   <property name="ws.jars"       value="C:/Users/Aruna/SeleniumUtitlities/jars/jars"/>
   <property name="test.dest"     value="${ws.home}/build"/>
   <property name="test.src"      value="${ws.home}/src"/>
-  <property name="test.reportsDir"  value="C:/Users/Aruna/rep"/>
+  <property name="test.reportsDir"  value="C:/Users/Aruna/workspace/subversion/Printing/rep"/>
 
 
     <path id="testcase.path">
