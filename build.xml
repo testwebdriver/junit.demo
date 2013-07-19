@@ -91,7 +91,7 @@
     <delete includeemptydirs="true" quiet="true">
            <fileset dir="${test.reportsDir}" includes="**/*"/>
 	</delete>
-	<java jar="${ws.jars}" fork="true" spawn="ture"/>
+	
 	<junit fork="yes" haltonfailure="no" printsummary="yes">
 		<classpath refid="testcase.path"/>
 	
