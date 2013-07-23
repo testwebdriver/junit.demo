@@ -1,5 +1,5 @@
 <!DOCTYPE project[]>
-<project name="Junit_Ant" default="startserver" basedir=".">
+<project name="Junit_Ant" default="clean" basedir=".">
 
 <property environment="env"/>
 	
